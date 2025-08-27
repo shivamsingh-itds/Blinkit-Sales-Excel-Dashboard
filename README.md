@@ -1,3 +1,5 @@
+![Blinkit Sales Dashboard Screenshot ](Blinkit_Sales_Dashboard.png)
+
 Blinkit Sales Dashboard
 
 This repository contains an Excel-based sales dashboard analyzing Blinkit grocery store data, showcasing sales trends, outlet performance, and product category insights from 2011 to 2022.
