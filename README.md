@@ -33,4 +33,4 @@ Consider migration to Power BI or Tableau for advanced analytics.
 
 Contact:
 
-For questions or contributions, feel free to reach out via [your LinkedIn profile] or [your GitHub profile].
+For questions or contributions, feel free to reach out
